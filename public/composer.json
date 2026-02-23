@@ -1,0 +1,7 @@
+{
+    "require": {
+        "tecnickcom/tcpdf": "^6.8",
+        "setasign/fpdi": "^2.6",
+        "picqer/php-barcode-generator": "^2.4"
+    }
+}

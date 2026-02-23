@@ -1,0 +1,1417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-07-30 13:47+0000\n"
+"PO-Revision-Date: 2024-07-30 13:47+0000\n"
+"Last-Translator: Morgan\n"
+"Language-Team: \n"
+"Language: es_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: gettext;_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controllers/Calendar.php:441
+msgid "RSS Report is limited to 365 days at a time"
+msgstr "El informe RSS está limitado a 365 días seguidos"
+
+#: Controllers/Calendar.php:513
+msgid "Canceled Event"
+msgstr "Evento cancelado"
+
+#: Controllers/Calendar.php:543 Views/calendar_embed.php:641
+msgid "Category"
+msgstr "Categoría"
+
+#: Controllers/Calendar.php:549
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: Controllers/Calendar.php:555
+msgid "Room"
+msgstr "Sala"
+
+#: Controllers/Calendar.php:591
+msgid "JSON Calendar feed not enabled"
+msgstr "Calendario JSON no habilitado"
+
+#: Controllers/Calendar.php:635
+msgid "JSON Report is limited to 365 days at a time"
+msgstr "El informe JSON está limitado a 365 días cada vez"
+
+#: Controllers/Calendar.php:678
+msgid "JSON Event Feed for "
+msgstr "Fuente de eventos JSON para "
+
+#: Controllers/Calendar.php:1587
+msgid "Your registration has been cancelled."
+msgstr "Su inscripción ha sido cancelada."
+
+#: Controllers/Calendar.php:1591
+msgid ""
+"Your registration could not be cancelled. Please contact the library to "
+"cancel your registration."
+msgstr ""
+"Your registration could not be cancelled. Please contact the library to "
+"cancel your registration."
+
+#: Controllers/Calendar.php:1767
+msgid "Your registration has been updated."
+msgstr "Su registro ha sido actualizado."
+
+#: Controllers/Calendar.php:1771
+msgid ""
+"Your registration could not be updated. Please contact the library to cancel "
+"your registration."
+msgstr ""
+"No se ha podido actualizar su inscripción. Póngase en contacto con la "
+"biblioteca para cancelar su inscripción."
+
+#: Controllers/Calendar.php:1885
+msgid "Registration Alert"
+msgstr "Alerta de registro"
+
+#: Controllers/Calendar.php:1888
+msgid ""
+"This is just a friendly alert to let you know action might be necessary to "
+"reach full capacity for event name. Looks like there may be a bottleneck in "
+"your event's waitlist. Please use the link below to view the waitlist and "
+"clear up the bottleneck with the tips below."
+msgstr ""
+"Esto es sólo una alerta amistosa para informarte de que podría ser necesario "
+"tomar medidas para alcanzar el aforo completo para el nombre del evento. "
+"Parece que puede haber un cuello de botella en la lista de espera de tu "
+"evento. Utilice el siguiente enlace para ver la lista de espera y eliminar "
+"el cuello de botella con los consejos que se indican a continuación."
+
+#: Controllers/Calendar.php:1894
+msgid "To view your registration list, please go to this link:"
+msgstr "Para consultar su lista de inscripción, vaya a este enlace:"
+
+#: Controllers/Calendar.php:1897
+msgid "View the Registration List"
+msgstr "Ver la lista de inscripción"
+
+#: Controllers/Calendar.php:1909
+msgid ""
+"Notice that there may be some seats available on the registered list, but "
+"the waitlist has a party larger than what&apos;s available."
+msgstr ""
+"Observe que puede haber algunas plazas disponibles en la lista de inscritos, "
+"pero la lista de espera tiene un grupo mayor que el disponible."
+
+#: Controllers/Calendar.php:1912
+msgid ""
+"You can increase the event&apos;s capacity or ask the waitlisted party to "
+"decrease their party."
+msgstr ""
+"Puede aumentar el aforo del evento o pedir a la persona en lista de espera "
+"que reduzca su grupo."
+
+#: Controllers/Calendar.php:1915
+msgid ""
+"You are also welcome to take no action but know that no other parties will "
+"be allowed on the registered list until the party at the top of the waitlist "
+"is moved manually or edited."
+msgstr ""
+"También puede no tomar ninguna medida, pero sepa que no se permitirá la "
+"inscripción de ningún otro partido en la lista hasta que el partido que "
+"encabeza la lista de espera se mueva manualmente o se edite."
+
+#: Controllers/Calendar.php:1918
+msgid "If you have any questions, please reach out to support@whofi.com."
+msgstr "Si tiene alguna pregunta, póngase en contacto con support@whofi.com."
+
+#: Controllers/Calendar.php:1958
+msgid "Login to"
+msgstr "Inicie sesión en"
+
+#: Controllers/Calendar.php:1958
+msgid "to review. Do not reply to this email."
+msgstr "para revisar. No responda a este correo electrónico."
+
+#: Controllers/Calendar.php:2035 Controllers/Registration.php:690
+msgid "Registration Confirmation: "
+msgstr "Confirmación de inscripción: "
+
+#: Controllers/Calendar.php:2036 Controllers/Registration.php:691
+msgid "Registration Confirmed!"
+msgstr "Inscripción confirmada"
+
+#: Controllers/Calendar.php:2037 Controllers/Registration.php:692
+#: Controllers/Spaces.php:1366
+msgid "confirmed"
+msgstr "confirmado"
+
+#: Controllers/Calendar.php:2038 Controllers/Calendar.php:2045
+#: Controllers/Registration.php:693
+msgid "Click here to cancel this registration."
+msgstr "Haga clic aquí para cancelar esta inscripción."
+
+#: Controllers/Calendar.php:2042
+msgid "Registration Update: "
+msgstr "Actualización de la inscripción: "
+
+#: Controllers/Calendar.php:2043
+msgid "Registration Updated!"
+msgstr "¡Inscripción actualizada!"
+
+#: Controllers/Calendar.php:2044
+msgid "updated"
+msgstr "actualizado"
+
+#: Controllers/Calendar.php:2071 Controllers/Registration.php:724
+msgid "Thank you for registering for "
+msgstr "Gracias por inscribirse en "
+
+#: Controllers/Calendar.php:2071 Controllers/Registration.php:724
+msgid "'s "
+msgstr "de "
+
+#: Controllers/Calendar.php:2074 Controllers/Calendar.php:2242
+#: Controllers/Registration.php:725
+msgid "This is an automated email letting you know that your registration is "
+msgstr ""
+"Este es un correo electrónico automático que le informa de que su registro "
+"es "
+
+#: Controllers/Calendar.php:2080 Controllers/Registration.php:731
+msgid "To view your registration, please go to this link:"
+msgstr "Para ver su inscripción, vaya a este enlace:"
+
+#: Controllers/Calendar.php:2083 Controllers/Registration.php:734
+msgid "View my Registration"
+msgstr "Ver mi inscripción"
+
+#: Controllers/Calendar.php:2098 Controllers/Calendar.php:2257
+#: Controllers/Registration.php:759
+msgid "If you have any questions, please contact the organizer of the event:"
+msgstr ""
+"Si tiene alguna pregunta, póngase en contacto con el organizador del acto:"
+
+#: Controllers/Calendar.php:2146 Controllers/Registration.php:917
+msgid ""
+"You should also receive an automated reminder email the day prior to the "
+"event."
+msgstr ""
+"También recibirá un recordatorio automático por correo electrónico la "
+"víspera del acto."
+
+#: Controllers/Calendar.php:2148 Controllers/Registration.php:922
+#: Controllers/Spaces.php:1452
+msgid "Do not reply to this email. Change of plans?"
+msgstr "No responda a este correo electrónico. ¿Cambio de planes?"
+
+#: Controllers/Calendar.php:2216
+msgid "Canceled Event: "
+msgstr "Evento cancelado: "
+
+#: Controllers/Calendar.php:2217
+msgid "Registration Canceled!"
+msgstr "Inscripción cancelado"
+
+#: Controllers/Calendar.php:2218 Controllers/Spaces.php:1218
+msgid "canceled"
+msgstr "cancelado"
+
+#: Controllers/Calendar.php:2243 Controllers/Spaces.php:1167
+#: Controllers/Spaces.php:1243
+msgid "Reason for cancelation: Canceled by patron"
+msgstr "Motivo de la cancelación: Cancelado por el patrón"
+
+#: Controllers/Calendar.php:2254 Views/event_detail.php:1452
+msgid "Organizer:"
+msgstr "Organizador:"
+
+#: Controllers/Calendar.php:2279
+msgid "Event:"
+msgstr "Evento: "
+
+#: Controllers/Calendar.php:2307 Controllers/Spaces.php:1195
+#: Controllers/Spaces.php:1266
+msgid "Do not reply to this email."
+msgstr "No responda a este correo electrónico."
+
+#: Controllers/Registration.php:681
+msgid "Registration(s) Received: "
+msgstr "Registro(s) recibido(s): "
+
+#: Controllers/Registration.php:682
+msgid "Registration Received!"
+msgstr "Inscripción recibida"
+
+#: Controllers/Registration.php:683
+msgid "received for the following event(s)"
+msgstr "recibidos para el/los siguiente(s) acontecimiento(s)"
+
+#: Controllers/Registration.php:697
+msgid "Waitlist Received: "
+msgstr "Lista de espera recibida: "
+
+#: Controllers/Registration.php:698
+msgid "Waitlist Received!"
+msgstr "Lista de espera recibida"
+
+#: Controllers/Registration.php:699
+msgid "added to the <b>waitlist</b>"
+msgstr "añadido a la <b>lista de espera</b>"
+
+#: Controllers/Registration.php:700
+msgid "Click here to cancel your waitlist request."
+msgstr "Haga clic aquí para cancelar su solicitud de lista de espera."
+
+#: Controllers/Registration.php:799 Views/cancel_registration_booking.php:990
+msgid "Confirmed"
+msgstr "Confirmado"
+
+#: Controllers/Registration.php:803 Views/cancel_registration_booking.php:994
+msgid "Waitlist"
+msgstr "Lista de espera"
+
+#: Controllers/Registration.php:824 Views/confirm_registration_booking.php:38
+msgid "Event"
+msgstr "Evento"
+
+#: Controllers/Registration.php:850 Views/cancel_registration_booking.php:199
+#: Views/confirm_registration_booking.php:104
+msgid "Registration Details"
+msgstr "Detalles de inscripción"
+
+#: Controllers/Registration.php:853
+msgid "Registration Status: "
+msgstr "Estado de la inscripción: "
+
+#: Controllers/Registration.php:856
+msgid "Change of plans? To cancel your registration for this event, "
+msgstr "¿Cambio de planes? Para cancelar su inscripción en este acto, "
+
+#: Controllers/Registration.php:890
+msgid "Timeslot selected:"
+msgstr "Franja horaria seleccionada:"
+
+#: Controllers/Spaces.php:219
+msgid "The library is closed"
+msgstr "La biblioteca está cerrada"
+
+#: Controllers/Spaces.php:532
+msgid "The library is closed."
+msgstr "La biblioteca está cerrada."
+
+#: Controllers/Spaces.php:542
+msgid ""
+"Booking failed. Please submit your request again or contact the library "
+"administrator."
+msgstr ""
+"Reserva fallida. Vuelva a enviar su solicitud o póngase en contacto con el "
+"administrador de la biblioteca."
+
+#: Controllers/Spaces.php:547
+msgid "We have received your booking request."
+msgstr "Hemos recibido su solicitud de reserva."
+
+#: Controllers/Spaces.php:551
+msgid ""
+"We have received your booking request but could not send the confirmation "
+"email."
+msgstr ""
+"Hemos recibido su solicitud de reserva pero no hemos podido enviar el correo "
+"electrónico de confirmación."
+
+#: Controllers/Spaces.php:643
+msgid "Invalid time selections. This booking requires multiple bookings"
+msgstr "Selección de hora no válida. Esta reserva requiere múltiples reservas"
+
+#: Controllers/Spaces.php:993
+msgid "Your booking has been cancelled."
+msgstr "Su reserva ha sido cancelada."
+
+#: Controllers/Spaces.php:1000
+msgid ""
+"Your booking could not be cancelled. Please contact the library to cancel "
+"your booking."
+msgstr ""
+"No se ha podido anular su reserva. Póngase en contacto con la biblioteca "
+"para cancelar su reserva."
+
+#: Controllers/Spaces.php:1087
+msgid "Booking Approved: "
+msgstr "Reserva aprobada: "
+
+#: Controllers/Spaces.php:1089
+msgid ""
+"This is an automated email letting you know that a patron submitted a "
+"request from the website and the booking was <b>approved</b> for the "
+"following space:"
+msgstr ""
+"Se trata de un correo electrónico automático que le informa de que un "
+"usuario ha enviado una solicitud desde el sitio web y la reserva ha sido "
+"<b>aprobada</b> para el siguiente espacio:"
+
+#: Controllers/Spaces.php:1093
+msgid "Pending Booking: "
+msgstr "Reserva pendiente: "
+
+#: Controllers/Spaces.php:1095
+msgid ""
+"This is an automated email letting you know that a patron submitted a "
+"request from the website and the booking is <b>pending</b> for the following "
+"space:"
+msgstr ""
+"Se trata de un correo electrónico automático que le informa de que un "
+"usuario ha enviado una solicitud desde el sitio web y la reserva está "
+"<b>pendiente</b> para el siguiente espacio:"
+
+#: Controllers/Spaces.php:1104 Controllers/Spaces.php:1175
+msgid "Form Submitted:"
+msgstr "Formulario presentado:"
+
+#: Controllers/Spaces.php:1107 Controllers/Spaces.php:1179
+msgid "Name: "
+msgstr "Nombre: "
+
+#: Controllers/Spaces.php:1111 Controllers/Spaces.php:1183
+msgid "Email: "
+msgstr "Correo electrónico: "
+
+#: Controllers/Spaces.php:1115 Controllers/Spaces.php:1187
+msgid "Phone: "
+msgstr "Número de teléfono: "
+
+#: Controllers/Spaces.php:1119
+msgid "Total attendees: "
+msgstr "Nuevo total de asistentes: "
+
+#: Controllers/Spaces.php:1133
+msgid ""
+"Login to <a href='https://whofi.com'>WhoFi.com</a> to manage this booking. "
+"Do not reply to this email."
+msgstr ""
+"Inicie sesión en <a href='https://whofi.com'>WhoFi.com</a> para gestionar "
+"esta reserva. No responda a este correo electrónico."
+
+#: Controllers/Spaces.php:1138
+msgid ""
+"Login to <a href='https://whofi.com'>WhoFi.com</a> to make a decision about "
+"this booking. Do not reply to this email."
+msgstr ""
+"Inicie sesión en <a href='https://whofi.com'>WhoFi.com</a> para tomar una "
+"decisión sobre esta reserva. No responda a este correo electrónico."
+
+#: Controllers/Spaces.php:1163
+msgid "Booking Canceled: "
+msgstr "Reserva cancelada: "
+
+#: Controllers/Spaces.php:1165
+msgid "Hello, "
+msgstr "Hola, "
+
+#: Controllers/Spaces.php:1166
+msgid ""
+"This is an automated email letting you know that a booking was canceled for "
+"the following space:"
+msgstr ""
+"Se trata de un correo electrónico automático que le informa de que se ha "
+"cancelado una reserva para el siguiente espacio:"
+
+#: Controllers/Spaces.php:1216
+msgid "Booking Canceled"
+msgstr "Reserva cancelada"
+
+#: Controllers/Spaces.php:1217
+msgid "Booking Canceled!"
+msgstr "Reserva cancelada!"
+
+#: Controllers/Spaces.php:1242 Controllers/Spaces.php:1399
+msgid "This is an automated email letting you know that your booking is "
+msgstr ""
+"Se trata de un correo electrónico automático que le informa de que su "
+"reserva es "
+
+#: Controllers/Spaces.php:1266 Controllers/Spaces.php:1449
+msgid "If you have any questions, please contact the library at "
+msgstr "Si tiene alguna pregunta, póngase en contacto con la biblioteca en "
+
+#: Controllers/Spaces.php:1365
+msgid "Booking Confirmed!"
+msgstr "Reserva confirmada"
+
+#: Controllers/Spaces.php:1367 Controllers/Spaces.php:1374
+msgid "Click here to cancel this booking."
+msgstr "Haga clic aquí para cancelar esta reserva."
+
+#: Controllers/Spaces.php:1372
+msgid "Booking Request Sent!"
+msgstr "Solicitud de reserva enviada"
+
+#: Controllers/Spaces.php:1373
+msgid "pending approval"
+msgstr "pendiente de aprobación"
+
+#: Controllers/Spaces.php:1373
+msgid ""
+"You will be notified of the status change to your pending booking via email."
+msgstr ""
+"Se le notificará el cambio de estado de su reserva pendiente por correo "
+"electrónico."
+
+#: Controllers/Spaces.php:1398
+msgid "Thank you for requesting a booking at "
+msgstr "Gracias por solicitar una reserva en "
+
+#: Controllers/Spaces.php:1401
+msgid "To view your booking, please go to this link:"
+msgstr "Para ver su reserva, vaya a este enlace:"
+
+#: Controllers/Spaces.php:1404
+msgid "View my booking"
+msgstr "Ver mi reserva"
+
+#: Controllers/Spaces.php:1412
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: Controllers/Spaces.php:1423
+msgid "Room Policy"
+msgstr "Política de habitaciones"
+
+#: Controllers/Spaces.php:1424
+msgid "To review the Meeting Room’s policy, "
+msgstr "Para consultar la política de la Sala de Reuniones, "
+
+#: Controllers/Spaces.php:1424
+msgid "click here."
+msgstr "haga clic aquí."
+
+#: Controllers/Spaces.php:1434 Views/request_space.php:176
+msgid "Booking details"
+msgstr "Detalles de la reserva"
+
+#: Models/Data_model.php:15
+msgid "Children (Ages 0-5)"
+msgstr "Niños (0-5 años)"
+
+#: Models/Data_model.php:16
+msgid "Children (Ages 6-11)"
+msgstr "Niños (de 6 a 11 años)"
+
+#: Models/Data_model.php:17
+msgid "Young Adult (Ages 12-18)"
+msgstr "Adulto joven (12-18 años)"
+
+#: Models/Data_model.php:18
+msgid "Adult (Ages 19+)"
+msgstr "Adultos (mayores de 19 años)"
+
+#: Models/Data_model.php:19
+msgid "General Interest"
+msgstr "Interés general"
+
+#: Models/Data_model.php:31 Models/Data_model.php:57
+msgid "Other"
+msgstr "Otros"
+
+#: Models/Data_model.php:39
+msgid "On Site"
+msgstr "Presencial"
+
+#: Models/Data_model.php:40
+msgid "Off Site"
+msgstr "Externo"
+
+#: Models/Data_model.php:41
+msgid "Virtual"
+msgstr "Virtual"
+
+#: Models/Data_model.php:42
+msgid "Passive / Self Directed"
+msgstr "Pasivo / Autodirigido"
+
+#: Models/Data_model.php:50
+msgid "In Person"
+msgstr "En Persona"
+
+#: Models/Data_model.php:51
+msgid "Live Virtual"
+msgstr "Virtual en directo"
+
+#: Models/Data_model.php:52
+msgid "Passive / Self Directed Program"
+msgstr "Programa pasivo / autodirigido"
+
+#: Models/Data_model.php:53
+msgid "Combo in Person / Live Virtual"
+msgstr "Combo en persona / Virtual en directo"
+
+#: Models/Data_model.php:54
+msgid "Combo Live Virtual / Content Recordings"
+msgstr "Combo Live Virtual / Grabaciones de contenidos"
+
+#: Models/Data_model.php:55
+msgid "Content Recordings"
+msgstr "Grabaciones de contenidos"
+
+#: Models/Utils_model.php:127 Models/Utils_model.php:132
+msgid "Eastern Time"
+msgstr "Hora del Este"
+
+#: Models/Utils_model.php:128 Models/Utils_model.php:136
+msgid "Central Time"
+msgstr "Hora central"
+
+#: Models/Utils_model.php:129 Models/Utils_model.php:138
+msgid "Mountain Time"
+msgstr "Hora de montaña"
+
+#: Models/Utils_model.php:130
+msgid "Mountain no DST"
+msgstr "Horario de montaña sin horario de verano"
+
+#: Models/Utils_model.php:131 Models/Utils_model.php:137
+msgid "Pacific Time"
+msgstr "Hora del Pacífico"
+
+#: Models/Utils_model.php:133 Models/Utils_model.php:139
+msgid "Alaska"
+msgstr "Alaska"
+
+#: Models/Utils_model.php:134
+msgid "Greenwich Time"
+msgstr "Hora de Greenwich"
+
+#: Models/Utils_model.php:135
+msgid "UTC"
+msgstr "UTC"
+
+#: Models/Utils_model.php:140
+msgid "Hawaii"
+msgstr "Hawai"
+
+#: Models/Utils_model.php:141
+msgid "Hawaii no DST"
+msgstr "Hawai sin horario de verano"
+
+#: Models/Utils_model.php:142
+msgid "India"
+msgstr "India"
+
+#: Views/calendar.php:52
+msgid "Filter Events"
+msgstr "Filtrar eventos"
+
+#: Views/calendar.php:63 Views/library_spaces.php:192
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: Views/calendar.php:64 Views/library_spaces.php:178
+msgid "Search"
+msgstr "Buscar"
+
+#: Views/calendar.php:77
+msgid "Enter a keyword"
+msgstr "Introduzca una palabra clave"
+
+#: Views/calendar.php:97
+msgid "Search by Tags"
+msgstr "Búsqueda por etiquetas"
+
+#: Views/calendar.php:131 Views/calendar.php:174
+msgid "Filter by category"
+msgstr "Filtrar por categoría"
+
+#: Views/calendar.php:158
+msgid "Filter by date"
+msgstr "Filtrar por fecha"
+
+#: Views/calendar.php:170
+msgid "Filter Options"
+msgstr "Opciones de filtrado"
+
+#: Views/calendar.php:192 Views/calendar.php:194
+msgid "Filter by type"
+msgstr "Filtrar por tipo"
+
+#: Views/calendar.php:215 Views/calendar.php:240 Views/calendar.php:242
+msgid "Filter by age"
+msgstr "Filtrar por edad"
+
+#: Views/calendar.php:217
+msgid "Filter by audience"
+msgstr "Filtrar por público"
+
+#: Views/calendar.php:262 Views/calendar.php:264
+msgid "Filter by platform"
+msgstr "Filtrar por plataforma"
+
+#: Views/calendar.php:281 Views/calendar.php:283
+msgid "Filter by site"
+msgstr "Filtrar por sitio"
+
+#: Views/calendar.php:303
+msgid "Other options"
+msgstr "Otras opciones"
+
+#: Views/calendar.php:314
+msgid "Featured"
+msgstr "Destacados"
+
+#: Views/calendar.php:448
+msgid "No description"
+msgstr "Sin descripción"
+
+#: Views/calendar.php:571
+msgid "Registration closed"
+msgstr "Inscripción cerrada"
+
+#: Views/calendar.php:579 Views/calendar_embed.php:372
+msgid "Register Now"
+msgstr "Regístrese ahora"
+
+#: Views/calendar.php:593
+msgid "Registration opens on "
+msgstr "La inscripción se abre el "
+
+#: Views/calendar.php:599 Views/calendar_embed.php:887
+msgid "More Details"
+msgstr "Saber más"
+
+#: Views/calendar.php:610
+msgid "Registration required"
+msgstr "Inscripción obligatoria"
+
+#: Views/calendar.php:671
+msgid "No records found"
+msgstr "No se han encontrado registros"
+
+#: Views/calendar_embed.php:106
+msgid "Holiday / Closure"
+msgstr "Vacaciones / Cierre"
+
+#: Views/calendar_embed.php:106
+msgid "Closure Name"
+msgstr "Nombre del cierre"
+
+#: Views/calendar_embed.php:106
+msgid "Closure Time"
+msgstr "Hora de cierre"
+
+#: Views/calendar_embed.php:384 Views/event_detail.php:1315
+msgid "Registration Closed"
+msgstr "Inscripción cerrada"
+
+#: Views/calendar_embed.php:393
+msgid "Waitlist Open"
+msgstr "Lista de espera abierta"
+
+#: Views/calendar_embed.php:404
+msgid "Registration Opens on"
+msgstr "La inscripción se abre el"
+
+#: Views/calendar_embed.php:423
+msgid "No audience selected"
+msgstr "No se ha seleccionado público"
+
+#: Views/calendar_embed.php:559
+msgid "Select Location:"
+msgstr "Seleccione la ubicación:"
+
+#: Views/calendar_embed.php:600
+msgid "Age"
+msgstr "Edad"
+
+#: Views/calendar_embed.php:605
+msgid "All Ages"
+msgstr "Todas las edades"
+
+#: Views/calendar_embed.php:645
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: Views/calendar_embed.php:670
+msgid "Audience"
+msgstr "Audiencia"
+
+#: Views/calendar_embed.php:674
+msgid "All Audiences"
+msgstr "Todos los audiencias"
+
+#: Views/calendar_embed.php:740 Views/calendar_featured_embed.php:179
+msgid "Event Canceled"
+msgstr "Evento cancelado"
+
+#: Views/calendar_embed.php:744
+msgid "Close Event"
+msgstr "Cerrar evento"
+
+#: Views/calendar_embed.php:891
+msgid "Registration Required"
+msgstr "Inscripción obligatoria"
+
+#: Views/calendar_featured_embed.php:200
+msgid "See full calendar"
+msgstr "Ver el calendario completo"
+
+#: Views/calendar_list.php:5
+msgid "Program Calendar List"
+msgstr "Lista del calendario de programas"
+
+#: Views/calendar_list.php:12
+msgid "Event Start Date"
+msgstr "Fecha de inicio del evento"
+
+#: Views/calendar_list.php:13
+msgid "Event End Date"
+msgstr "Fecha de finalización del evento"
+
+#: Views/calendar_list.php:14
+msgid "Event Description"
+msgstr "Descripción del evento"
+
+#: Views/cancel_registration_booking.php:77
+msgid ""
+"Your registration has been recorded. You may go through your registrations "
+"and make necessary changes."
+msgstr ""
+"Su inscripción ha sido registrada. Puede revisar sus inscripciones y "
+"realizar los cambios necesarios."
+
+#: Views/cancel_registration_booking.php:77
+#: Views/cancel_registration_booking.php:85
+#: Views/cancel_registration_booking.php:101
+msgid "Success message"
+msgstr "Mensaje de éxito"
+
+#: Views/cancel_registration_booking.php:85
+#: Views/cancel_registration_booking.php:101
+msgid ""
+"Your registration has been updated. Contact the library if you have any "
+"further questions."
+msgstr ""
+"Su inscripción ha sido actualizada. Póngase en contacto con la biblioteca si "
+"tiene más preguntas."
+
+#: Views/cancel_registration_booking.php:136 Views/event_detail.php:103
+msgid "Event Details"
+msgstr "Detalles del evento"
+
+#: Views/cancel_registration_booking.php:224
+#: Views/confirm_registration_booking.php:122
+msgid "Attendees: "
+msgstr "Asistentes: "
+
+#: Views/cancel_registration_booking.php:255
+msgid "Registration status : Confirmed"
+msgstr "Estado de la inscripción : Confirmado"
+
+#: Views/cancel_registration_booking.php:267
+msgid "Registration status : Canceled"
+msgstr "Estado del registro : Cancelado"
+
+#: Views/cancel_registration_booking.php:272
+msgid "Canceled reason : "
+msgstr "Cancelado motivo : "
+
+#: Views/cancel_registration_booking.php:335
+msgid "New Total Attendees"
+msgstr "Nuevo total de asistentes"
+
+#: Views/cancel_registration_booking.php:335
+#: Views/cancel_registration_booking.php:339 Views/event_detail.php:678
+#: Views/event_detail.php:679 Views/event_detail.php:682
+#: Views/event_detail.php:1007 Views/request_space.php:652
+msgid "Number of attendees"
+msgstr "Número de asistentes"
+
+#: Views/cancel_registration_booking.php:344
+#: Views/cancel_registration_booking.php:1148 Views/event_detail.php:613
+#: Views/event_detail.php:1257
+msgid "Registration Full"
+msgstr "Inscripción completa"
+
+#: Views/cancel_registration_booking.php:349
+#: Views/cancel_registration_booking.php:1153
+msgid " more seats available"
+msgstr " plazas más disponibles"
+
+#: Views/cancel_registration_booking.php:352
+#: Views/cancel_registration_booking.php:1156
+msgid " more seat available"
+msgstr " plaza más disponible"
+
+#: Views/cancel_registration_booking.php:364
+msgid "Update Attendees"
+msgstr "Actualizar asistentes"
+
+#: Views/cancel_registration_booking.php:398
+msgid "Events Registered"
+msgstr "Eventos registrados"
+
+#: Views/cancel_registration_booking.php:443
+msgid "Canceled"
+msgstr "Cancelado"
+
+#: Views/cancel_registration_booking.php:532
+msgid "Event & Registration Details:"
+msgstr "Detalles del evento e inscripción:"
+
+#: Views/cancel_registration_booking.php:541
+#: Views/cancel_registration_booking.php:908
+#: Views/cancel_registration_booking.php:939
+#: Views/cancel_registration_booking.php:1541
+msgid "Update Registration"
+msgstr "Actualizar el registro"
+
+#: Views/cancel_registration_booking.php:542
+#: Views/cancel_registration_booking.php:1548
+msgid "Are you sure you want to cancel this registration?"
+msgstr "¿Está seguro de que desea cancelar esta inscripción?"
+
+#: Views/cancel_registration_booking.php:542
+#: Views/cancel_registration_booking.php:1548
+msgid "Cancel Registration"
+msgstr "Cancelar el registro"
+
+#: Views/cancel_registration_booking.php:619
+#: Views/cancel_registration_booking.php:935
+#: Views/cancel_registration_booking.php:1265
+msgid "Manage Attendees below:"
+msgstr "Gestionar asistentes a continuación:"
+
+#: Views/cancel_registration_booking.php:630
+#: Views/cancel_registration_booking.php:1285
+msgid "Attendee "
+msgstr "Asistente "
+
+#: Views/cancel_registration_booking.php:747
+#: Views/cancel_registration_booking.php:860
+#: Views/cancel_registration_booking.php:1400
+#: Views/cancel_registration_booking.php:1503
+#: Views/cancel_registration_booking.php:1680
+#: Views/cancel_registration_booking.php:1696 Views/event_detail.php:914
+msgid "Delete"
+msgstr "Borrar"
+
+#: Views/cancel_registration_booking.php:795
+#: Views/cancel_registration_booking.php:1442
+msgid "Full Name:"
+msgstr "Nombre completo:"
+
+#: Views/cancel_registration_booking.php:878 Views/event_detail.php:924
+msgid "Add Attendee"
+msgstr "Añadir asistente"
+
+#: Views/cancel_registration_booking.php:953 Views/event_detail.php:1208
+msgid "Not attending"
+msgstr "No asistir"
+
+#: Views/cancel_registration_booking.php:990
+#: Views/cancel_registration_booking.php:994
+msgid "Registration status"
+msgstr "Estado de la inscripción"
+
+#: Views/cancel_registration_booking.php:1050
+msgid "Attendees"
+msgstr "Asistentes"
+
+#: Views/cancel_registration_booking.php:1126
+#: Views/cancel_registration_booking.php:1139 Views/event_detail.php:1242
+#: Views/event_detail.php:1250
+msgid "Attendees per event"
+msgstr "Asistentes por acto"
+
+#: Views/cancel_registration_booking.php:1297 Views/request_space.php:588
+#: Views/request_space.php:592
+msgid "Full Name"
+msgstr "Nombre completo"
+
+#: Views/cancel_registration_booking.php:1408
+msgid "Cannot delete"
+msgstr "No se puede eliminar"
+
+#: Views/cancel_registration_booking.php:1443
+msgid "Enter full name"
+msgstr "Introduzca su nombre completo"
+
+#: Views/cancel_registration_booking.php:1477 Views/event_detail.php:797
+#: Views/event_detail.php:890
+msgid "Select an option"
+msgstr "Seleccione una opción"
+
+#: Views/cancel_registration_booking.php:1589
+msgid "Update"
+msgstr "Actualizar"
+
+#: Views/cancel_space_booking.php:38
+msgid "Room Name"
+msgstr "Nombre de la sala"
+
+#: Views/cancel_space_booking.php:42 Views/request_space.php:108
+msgid "Room Capacity"
+msgstr "Capacidad de la sala"
+
+#: Views/cancel_space_booking.php:46 Views/library_spaces.php:420
+#: Views/request_space.php:117
+msgid "Room Amenities"
+msgstr "Servicios de la sala"
+
+#: Views/cancel_space_booking.php:52 Views/library_spaces.php:431
+#: Views/request_space.php:134
+msgid "Information"
+msgstr "Información"
+
+#: Views/cancel_space_booking.php:58 Views/request_space.php:163
+msgid "Go Back"
+msgstr "Volver atrás"
+
+#: Views/cancel_space_booking.php:87 Views/confirm_registration_booking.php:81
+msgid "Your submission has been received."
+msgstr "Hemos recibido su envío."
+
+#: Views/cancel_space_booking.php:88
+msgid ""
+"Your booking has been cancelled. Contact the library if you have any further "
+"questions."
+msgstr ""
+"Su reserva ha sido cancelada. Póngase en contacto con la biblioteca si tiene "
+"más preguntas."
+
+#: Views/cancel_space_booking.php:89 Views/request_space.php:274
+msgid "Meeting Room Policy :"
+msgstr "Política de salas de reuniones :"
+
+#: Views/cancel_space_booking.php:100 Views/request_space.php:279
+#: Views/request_space.php:285
+msgid "Policy"
+msgstr "Política"
+
+#: Views/cancel_space_booking.php:126
+msgid "Booking Details"
+msgstr "Detalles de la reserva"
+
+#: Views/cancel_space_booking.php:158
+#: Views/confirm_registration_booking.php:161
+msgid "Cancel Booking"
+msgstr "Cancelar reserva"
+
+#: Views/cancel_space_booking.php:184 Views/request_space.php:810
+msgid "Meeting Room Policy"
+msgstr "Política de salas de reuniones"
+
+#: Views/confirm_registration_booking.php:42
+msgid "Event date"
+msgstr "Fecha del evento"
+
+#: Views/confirm_registration_booking.php:46
+msgid "Details"
+msgstr "Detalles"
+
+#: Views/confirm_registration_booking.php:52
+msgid " << Go Back "
+msgstr " << Volver atrás "
+
+#: Views/confirm_registration_booking.php:82
+msgid ""
+"Your registration has been cancelled. Contact the library if you have any "
+"further questions."
+msgstr ""
+"Su inscripción ha sido cancelada. Póngase en contacto con la biblioteca si "
+"tiene más preguntas."
+
+#: Views/event_detail.php:168
+msgid "Error! Could not save the registration."
+msgstr "Error. No se ha podido guardar el registro."
+
+#: Views/event_detail.php:172 Views/event_detail.php:180
+msgid "Error! Number of attendees exceeded the number of available slots."
+msgstr "Error. El número de asistentes supera el número de plazas disponibles."
+
+#: Views/event_detail.php:176
+msgid "Error! Invalid data passed."
+msgstr "Error. Se han introducido datos no válidos."
+
+#: Views/event_detail.php:184
+msgid ""
+"Error! Your registration form was not submitted because no timeslot was "
+"chosen. Please try again by choosing your timeslot."
+msgstr ""
+"¡Error! El formulario de inscripción no se ha enviado porque no se ha "
+"seleccionado ninguna franja horaria. Por favor, inténtelo de nuevo eligiendo "
+"su franja horaria."
+
+#: Views/event_detail.php:188
+msgid ""
+"Error! There is an existing registration with the given email address. "
+"Please check your email to find and manage your registration."
+msgstr ""
+"¡Error! Ya existe un registro con la dirección de correo electrónico "
+"indicada. Por favor, compruebe su correo electrónico para encontrar y "
+"gestionar su registro."
+
+#: Views/event_detail.php:195 Views/request_space.php:258
+msgid "Your booking could not be completed. Please try again."
+msgstr "No se ha podido completar su reserva. Por favor, inténtelo de nuevo."
+
+#: Views/event_detail.php:196 Views/request_space.php:259
+msgid "Contact us if the issue persists."
+msgstr "Póngase en contacto con nosotros si el problema persiste."
+
+#: Views/event_detail.php:208
+msgid "Confirmed! Contact the organizer if you have any questions."
+msgstr ""
+"Confirmado. Póngase en contacto con el organizador si tiene alguna pregunta."
+
+#: Views/event_detail.php:212
+msgid ""
+"Waitlist Registration Received! The library will contact you if your "
+"registration status changes."
+msgstr ""
+"¡Inscripción en lista de espera recibida! La biblioteca se pondrá en "
+"contacto con usted si cambia el estado de su inscripción."
+
+#: Views/event_detail.php:217
+msgid ""
+"Confirmed! Contact the organizer if you have any questions. Email could not "
+"be sent."
+msgstr ""
+"Confirmado. Póngase en contacto con el organizador si tiene alguna pregunta. "
+"No se ha podido enviar el correo electrónico."
+
+#: Views/event_detail.php:221
+msgid ""
+"Confirmed! Contact the organizer if you have any questions. Email not "
+"entered and hence email was not sent."
+msgstr ""
+"Confirmado. Póngase en contacto con el organizador si tiene alguna pregunta. "
+"Correo electrónico no introducido y por lo tanto el correo electrónico no "
+"fue enviado."
+
+#: Views/event_detail.php:231 Views/event_detail.php:243
+#: Views/request_space.php:272
+msgid "Great! Your submission has been received."
+msgstr "Estupendo. Hemos recibido su envío."
+
+#: Views/event_detail.php:232 Views/event_detail.php:244
+msgid "Expect an email soon regarding your registration."
+msgstr "En breve recibirá un correo electrónico sobre su inscripción."
+
+#: Views/event_detail.php:498
+msgid "Search for events"
+msgstr "Buscar eventos"
+
+#: Views/event_detail.php:619 Views/event_detail.php:1263
+msgid "Now Accepting Waitlist Registration Requests"
+msgstr "Ya se aceptan solicitudes de inscripción en lista de espera"
+
+#: Views/event_detail.php:621 Views/event_detail.php:627
+#: Views/event_detail.php:1264 Views/event_detail.php:1270
+msgid " of "
+msgstr " de "
+
+#: Views/event_detail.php:621
+msgid " waitlist seats available"
+msgstr " plazas disponibles en lista de espera"
+
+#: Views/event_detail.php:627 Views/event_detail.php:1264
+#: Views/event_detail.php:1270
+msgid " seats available"
+msgstr " plazas disponibles"
+
+#: Views/event_detail.php:651 Views/event_detail.php:654
+msgid "Enter your full name"
+msgstr "Introduzca su nombre completo"
+
+#: Views/event_detail.php:713 Views/request_space.php:607
+#: Views/request_space.php:611
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: Views/event_detail.php:714 Views/event_detail.php:717
+msgid "Enter your email address"
+msgstr "Introduzca su dirección de correo electrónico"
+
+#: Views/event_detail.php:731
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: Views/event_detail.php:732 Views/event_detail.php:735
+msgid "Enter your phone number"
+msgstr "Introduzca su número de teléfono"
+
+#: Views/event_detail.php:938
+msgid "Choose an available timeslot to attend:"
+msgstr "Elija una franja horaria disponible para asistir:"
+
+#: Views/event_detail.php:1002
+msgid "Do you want to register for other events in this series?"
+msgstr "¿Desea inscribirse en otros actos de esta serie?"
+
+#: Views/event_detail.php:1073 Views/event_detail.php:1212
+msgid "Registration full"
+msgstr "Inscripción completa"
+
+#: Views/event_detail.php:1139
+msgid "Click here to view the already completed dates in this series"
+msgstr "Haga clic aquí para ver las fechas ya completadas de esta serie"
+
+#: Views/event_detail.php:1173
+msgid ""
+"Click on each checkbox below to select the event(s) you would like to "
+"register for : "
+msgstr ""
+"Haga clic en cada una de las casillas siguientes para seleccionar los actos "
+"en los que desea inscribirse: "
+
+#: Views/event_detail.php:1316 Views/event_detail.php:1326
+#: Views/event_detail.php:1379
+msgid "Please wait..."
+msgstr "Por favor, espere..."
+
+#: Views/event_detail.php:1325 Views/event_detail.php:1378
+msgid "Register"
+msgstr "Registro"
+
+#: Views/event_detail.php:1355
+msgid "Registration Closed!"
+msgstr "Inscripción cerrada!"
+
+#: Views/event_detail.php:1356
+msgid "This registration was closed on "
+msgstr "Esta inscripción se cerró el "
+
+#: Views/event_detail.php:1369
+msgid "Registration Opens on "
+msgstr "La inscripción se abre el "
+
+#: Views/event_detail.php:1635
+msgid "Attending"
+msgstr "Asistir"
+
+#: Views/includes/lib-header.php:37
+msgid "Event Calendar"
+msgstr "Calendario de eventos"
+
+#: Views/library_spaces.php:63
+msgid "Location:"
+msgstr "Ubicación:"
+
+#: Views/library_spaces.php:66
+msgid "Select Location"
+msgstr "Seleccione la ubicación"
+
+#: Views/library_spaces.php:89
+msgid "Date"
+msgstr "Fecha"
+
+#: Views/library_spaces.php:90
+msgid "Pick date range"
+msgstr "Elija un intervalo de fechas"
+
+#: Views/library_spaces.php:95
+msgid "Start Time"
+msgstr "Hora de inicio"
+
+#: Views/library_spaces.php:96
+msgid "Pick start time"
+msgstr "Elija una hora de inicio"
+
+#: Views/library_spaces.php:101
+msgid "End Time"
+msgstr "Hora de finalización"
+
+#: Views/library_spaces.php:102
+msgid "Pick end time"
+msgstr "Elija una hora de finalización"
+
+#: Views/library_spaces.php:125
+msgid "Search by Amenities"
+msgstr "Buscar por servicios"
+
+#: Views/library_spaces.php:127
+msgid "Search by amenities"
+msgstr "Buscar por servicios"
+
+#: Views/library_spaces.php:158 Views/library_spaces.php:414
+msgid "Capacity"
+msgstr "Capacidad"
+
+#: Views/library_spaces.php:160
+msgid "Search by capacity"
+msgstr "Búsqueda por capacidad"
+
+#: Views/library_spaces.php:377
+msgid "Room Image"
+msgstr "Imagen de la sala"
+
+#: Views/library_spaces.php:388
+msgid "No Image"
+msgstr "Sin imagen"
+
+#: Views/library_spaces.php:423
+msgid "Amenities"
+msgstr "Servicios"
+
+#: Views/library_spaces.php:429
+msgid "Room Info"
+msgstr "Información de la habitación"
+
+#: Views/library_spaces.php:445 Views/request_space.php:316
+msgid "Available slots"
+msgstr "Franjas horarias disponibles"
+
+#: Views/library_spaces.php:536 Views/library_spaces.php:548
+msgid "Request this room"
+msgstr "Solicitar esta habitación"
+
+#: Views/library_spaces.php:593
+msgid "There are no spaces available with the selected filter options."
+msgstr "No hay espacios disponibles con las opciones de filtro seleccionadas."
+
+#: Views/request_space.php:145 Views/request_space.php:1256
+msgid "View more"
+msgstr "Ver más"
+
+#: Views/request_space.php:184 Views/request_space.php:1226
+msgid " minutes"
+msgstr " minutos"
+
+#: Views/request_space.php:273
+msgid "Expect an email soon regarding the approval of your request."
+msgstr ""
+"En breve recibirá un correo electrónico sobre la aprobación de su solicitud."
+
+#: Views/request_space.php:302
+msgid "Selected Date"
+msgstr "Fecha seleccionada"
+
+#: Views/request_space.php:469
+msgid "This room is unavailable for the selected date."
+msgstr "Esta habitación no está disponible para la fecha seleccionada."
+
+#: Views/request_space.php:507 Views/request_space.php:1066
+msgid "Book"
+msgstr "Reserve"
+
+#: Views/request_space.php:564
+msgid "Enter Details"
+msgstr "Introducir datos"
+
+#: Views/request_space.php:627
+msgid "Contact Phone"
+msgstr "Teléfono de contacto"
+
+#: Views/request_space.php:628
+msgid "Phone number must be active"
+msgstr "El número de teléfono debe estar activo"
+
+#: Views/request_space.php:633
+msgid "Phone number"
+msgstr "Número de teléfono"
+
+#: Views/request_space.php:731
+msgid "By booking this room, you agree to the meeting room policy found here:"
+msgstr ""
+"Al reservar esta sala, acepta la política de salas de reuniones que se "
+"encuentra aquí:"
+
+#: Views/request_space.php:736 Views/request_space.php:742
+msgid "Terms"
+msgstr "Términos"
+
+#: Views/request_space.php:759 Views/request_space.php:770
+msgid "Discard"
+msgstr "Descartar"
+
+#: Views/request_space.php:760
+msgid "Proceed to Payment"
+msgstr "Proceder al pago"
+
+#: Views/request_space.php:771
+msgid "Request Booking"
+msgstr "Solicitar reserva"
+
+#: Views/request_space.php:794
+msgid "Booking form unavailable"
+msgstr "Formulario de reserva no disponible"
+
+#: Views/request_space.php:837
+msgid "Enter your payment details"
+msgstr "Introduzca sus datos de pago"
+
+#: Views/request_space.php:851
+msgid "Name On Card"
+msgstr "Nombre en la tarjeta"
+
+#: Views/request_space.php:852 Views/request_space.php:855
+msgid "Specify a card holder's name"
+msgstr "Especificar el nombre del titular de una tarjeta"
+
+#: Views/request_space.php:861
+msgid "Card Number"
+msgstr "Número de tarjeta"
+
+#: Views/request_space.php:884
+msgid "Expiration Date"
+msgstr "Fecha de expiración"
+
+#: Views/request_space.php:899
+msgid "CVV"
+msgstr "CVV"
+
+#: Views/request_space.php:900
+msgid "Enter a card CVV code"
+msgstr "Introducir el código CVV de la tarjeta"
+
+#: Views/request_space.php:930
+msgid "Room Charges"
+msgstr "Gastos de sala"
+
+#: Views/request_space.php:931
+msgid "If you need more info, please check budget planning"
+msgstr "Si necesita más información, consulte la planificación presupuestaria"
+
+#: Views/request_space.php:943
+msgid "Submit Payment and Request Booking"
+msgstr "Enviar pago y solicitar reserva"
+
+#: Views/request_space.php:1028
+msgid "Payment error! Please try again later."
+msgstr "Error en el pago. Vuelva a intentarlo más tarde."
+
+#: Views/request_space.php:1088
+msgid "Attendees count should be greater than 0"
+msgstr "El recuento de asistentes debe ser superior a 0"
+
+#: Views/request_space.php:1093
+msgid "Attendees count cannot be greater than room capacity."
+msgstr ""
+"El número de asistentes no puede ser superior a la capacidad de la sala."
+
+#: Views/request_space.php:1098
+msgid ""
+"Please check the box to agree to the Meeting Room policy to submit your "
+"booking."
+msgstr ""
+"Marque la casilla de aceptación de la política de salas de reuniones para "
+"enviar su reserva."
+
+#: Views/request_space.php:1111
+msgid "Please fill in all the required fields."
+msgstr "Rellene todos los campos obligatorios."
+
+#: Views/request_space.php:1235
+msgid "Invalid selection. Cannot leave empty time slots in between."
+msgstr ""
+"Selección no válida. No se pueden dejar franjas horarias vacías en medio."
+
+#: Views/request_space.php:1254 Views/request_space.php:1262
+msgid "View less"
+msgstr "Ver menos"
+
+#~ msgid "seats"
+#~ msgstr "asientos"
+
+#~ msgid "seat"
+#~ msgstr "asiento"

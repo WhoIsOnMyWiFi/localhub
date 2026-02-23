@@ -1,0 +1,17 @@
+# Disallow everything.
+User-agent: *
+Disallow: /
+
+# Blocking AI scraper's using data to train
+User-agent: ImagesiftBot
+Disallow: /
+
+# Certain social media sites are whitelisted to allow crawlers to access page markup.
+User-agent: Twitterbot
+User-agent: facebookexternalhit
+User-agent: LinkedInBot
+Allow: /calendar/event/
+
+User-agent: googlebot
+Allow: /calendar/upcoming/
+Allow: /calendar/event/
